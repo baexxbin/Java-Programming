@@ -1,0 +1,2 @@
+module add2 {
+}
